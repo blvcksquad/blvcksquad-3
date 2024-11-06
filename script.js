@@ -27,19 +27,7 @@ const music_list = [
         artist : 'En Mannavva',
         music : 'music/1.mp3'
     },
-      {
-        img : 'images/bg.jpg',
-        name : '𝙏𝙀𝘼𝙈 𝘽𝙇𝘼𝘾𝙆 𝙎𝙌𝙐𝘼𝘿',
-        artist : 'En Mannavva',
-        music : 'music/1.mp3'
-    },
-      {
-        img : 'images/bg.jpg',
-        name : '𝙏𝙀𝘼𝙈 𝘽𝙇𝘼𝘾𝙆 𝙎𝙌𝙐𝘼𝘿',
-        artist : 'En Mannavva',
-        music : 'music/1.mp3'
-    },
- 
+      
 ];
 
 loadTrack(track_index);
